@@ -5,7 +5,6 @@
 class NodoEnt {
 public:
 	NodoEnt(int x = 0);
-	NodoEnt();
 
 	void setInfo(int x);
 	int getInfo(void);
